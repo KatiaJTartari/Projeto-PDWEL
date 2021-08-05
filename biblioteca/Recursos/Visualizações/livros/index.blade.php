@@ -49,7 +49,7 @@
     
 </table>
 
-<!-- Paginação -  >
+<!-- Paginação - >
  {{$livros->links()}} 
 
 </body>
